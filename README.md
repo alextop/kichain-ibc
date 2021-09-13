@@ -158,12 +158,16 @@ Urls as an example:
 > https://crypto.org/explorer/croeseid4/tx/67C295E86759483424BC90E8D41810E9F5C95741AB489AA70162FFF3C41626A9
 >
 
-#### Both balances are visible in both networks! :)
+#### Both balances are visible in both networks and their explorers! :)
 
 > rly q balance  kichain-t-4
 > 20000000ibc/238A9702992435B50A000AE039E8A7C39464E6B3084CC4853245FA7DFD417241,884980utki
 
 > rly q balance  testnet-croeseid-4
 > 934853485basetcro,10000transfer/channel-120/utki
+
+> https://crypto.org/explorer/croeseid4/account/tcro18dld6d6zsez585c5grs0hy6af9rmwyhuufugjn
+
+> https://ki.thecodes.dev/address/tki1c4n23f3mnl9ju7ehsd6c7q82raznhqw04zq4um
 
 ### That's all in short.
